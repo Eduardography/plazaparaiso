@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# No indexar la copia offline ni recursos internos
+Disallow: /Plaza Paraiso - Home (offline).html
+Disallow: /_ds/
+Disallow: /screenshots/
+Disallow: /uploads/
+
+Sitemap: https://www.plazaparaiso.com/sitemap.xml
